@@ -541,7 +541,7 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  height: 200px;
+  height: 150px;
 }
 
 .portfolio .portfolio-wrap::before {
