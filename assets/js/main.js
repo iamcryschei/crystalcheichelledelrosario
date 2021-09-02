@@ -209,7 +209,9 @@
       el: '.swiper-pagination',
       type: 'bullets',
       clickable: true
-    }
+    },
+    freeMode: true,
+    autoHeight: true,
   });
 
   /**
