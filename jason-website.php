@@ -74,7 +74,7 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Jason Inventory System Details</h2>
+          <h2>Jason Website Details</h2>
           <ol>
             <li><a href="index.html">Home</a></li>
             <li>Portfolio Details</li>
@@ -95,15 +95,15 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/jason inventory-1.jpg" alt="">
+                  <img src="assets/img/portfolio/jason website-1.jpg" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/jason inventory-2.jpg" alt="">
+                  <img src="assets/img/portfolio/jason website-2.jpg" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/jason inventory-3.jpg" alt="">
+                  <img src="assets/img/portfolio/jason website-3.jpg" alt="">
                 </div>
 
               </div>
@@ -115,16 +115,16 @@
             <div class="portfolio-info">
               <h3>Project information</h3>
               <ul>
-                <li><strong>Category</strong>: Web Inventory System</li>
+                <li><strong>Category</strong>: Web Design</li>
                 <li><strong>Client</strong>: Jason Electronics Phils., Company Inc.</li>
-                <li><strong>Project date</strong>: October, 2019</li>
-                <li><strong>Technologies used</strong>: PHP, JavaScript, Jquery, Bootstrap</li>
+                <li><strong>Project date</strong>: May, 2019</li>
+                <li><strong>Technologies used</strong>: Wordpress</li>
               </ul>
             </div>
             <div class="portfolio-description">
-              <h2>JEPINC Inventory System</h2>
+              <h2>JEPINC Website Design</h2>
               <p>
-                JEPINC Inventory System - is the process by which it can track the equipments throughout the entire supply chain, from purchasing of product from the supplier to end sales and where the equipment have been installed. It has features like: Total Available Products from International to Local, and graph of Sold Products, Supplier Details, Manage of Products (Add, Edit, View), you can view the Available, Sold, Reserved, and for Checking Products, and also History (Added Products, Sold Products, Reserved Products, Replaced by Set/Piece).
+                JEPINC Website Design - is the Jason's official website, where you can see the available and recent equipment for your Ships, Yacht, Fishing Boat, etc.
               </p>
             </div>
           </div>
